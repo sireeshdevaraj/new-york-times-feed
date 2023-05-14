@@ -1,7 +1,7 @@
 # New York Times Discord Bot
 
 A basic discord bot written in discord.js to post feeds from New york times, location based on Asia pacific.
-You can configure it for different location, check [https://www.nytimes.com/rss](NYT website).
+You can configure it for different location, check [NYT website](https://www.nytimes.com/rss).
 
 ## Installation
 
