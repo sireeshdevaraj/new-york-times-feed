@@ -1,0 +1,33 @@
+{
+  "name": "new-york-times-bot",
+  "version": "1.0.0",
+  "description": "A simple bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord.js",
+    "Node.js"
+  ],
+  "author": "KuuHaKu",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3",
+    "moment": "^2.29.4",
+    "xml-js": "^1.6.11"
+  },
+  "devDependencies": {
+    "eslint": "^8.40.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sireeshdevaraj/new-york-times-feed.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sireeshdevaraj/new-york-times-feed/issues"
+  },
+  "homepage": "https://github.com/sireeshdevaraj/new-york-times-feed#readme"
+}
