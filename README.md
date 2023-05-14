@@ -19,6 +19,7 @@ npm i discord.js moment dotenv xml-js
     "timeInMinutes":5
 }
 ```
++ `npm start` or `node index.js` to start the application
 
 ## Note
 This Bot is a Basic one, You can fork this bot and add configurations and tweaks as you please.
