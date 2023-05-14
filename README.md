@@ -11,7 +11,7 @@ git clone the repo, install the dependencies and start the application.
 npm i discord.js moment dotenv xml-js
 ```
 
-+ Create a `.env` file and add your bot token and client Id.
++ Create a `.env` file and add your `BOT_TOKEN` and `CLIENT_ID`.
 + Add your channel ID to post and minutes to set the duration in `config.json`.
 ```
 {
